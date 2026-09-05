@@ -3,8 +3,7 @@
 A local, file-based academic performance analysis application for colleges to manage subject-wise examination uploads, analyze student performance, visualize results, generate reports, and export professional PDF/Excel reports.
 
 > **Application:** Student Performance Analyzer  
-> **College:** Easwari Engineering College  
-> **Department:** Artificial Intelligence and Data Science  
+> **Field:** Artificial Intelligence and Data Science  
 > **Status:** Active development
 
 ---
